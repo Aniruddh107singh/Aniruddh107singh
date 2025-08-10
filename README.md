@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Aniruddh107singh
 - 👀 I’m interested in technical work that requires grit and sheer dedication
-- 🌱 I’m currently learning dsa with java and mern stack
+- 🌱 I’m presently a developer on java and mern stack 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://www.linkedin.com/in/aniruddh-singh-13266524a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 📫 How to reach me(https://www.linkedin.com/in/aniruddh18/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
